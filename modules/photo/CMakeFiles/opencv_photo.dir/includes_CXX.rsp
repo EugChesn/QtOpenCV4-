@@ -1,0 +1,1 @@
+-IC:/OpenCv/opencv/sources/modules/photo/src -IC:/OpenCv/opencv/sources/modules/photo/include -IC:/OpenCv/opencv/opencv_bin/modules/photo -IC:/OpenCv/opencv/sources/modules/core/include -IC:/OpenCv/opencv/sources/modules/imgproc/include -isystem C:/OpenCv/opencv/opencv_bin 

@@ -1,0 +1,1 @@
+-IC:/OpenCv/opencv/sources/modules/core/include -IC:/OpenCv/opencv/sources/apps/version/PRIVATE -IC:/OpenCv/opencv/sources/include/opencv -isystem C:/OpenCv/opencv/opencv_bin 

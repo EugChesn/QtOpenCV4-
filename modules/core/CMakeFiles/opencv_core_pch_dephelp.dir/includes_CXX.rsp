@@ -1,0 +1,1 @@
+-IC:/OpenCv/opencv/sources/modules/core/src -IC:/OpenCv/opencv/sources/modules/core/include -IC:/OpenCv/opencv/opencv_bin/modules/core -IC:/OpenCv/opencv/sources/3rdparty/zlib -IC:/OpenCv/opencv/opencv_bin/3rdparty/zlib -IC:/OpenCv/opencv/sources/3rdparty/include/opencl/1.2 -isystem C:/OpenCv/opencv/opencv_bin 

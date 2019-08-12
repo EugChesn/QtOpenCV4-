@@ -1,0 +1,2 @@
+E:\Qt\Tools\mingw730_32\bin\ar.exe qc ..\..\lib\libopencv_test_objdetect_pch_dephelp.a  CMakeFiles/opencv_test_objdetect_pch_dephelp.dir/opencv_test_objdetect_pch_dephelp.cxx.obj
+E:\Qt\Tools\mingw730_32\bin\ranlib.exe ..\..\lib\libopencv_test_objdetect_pch_dephelp.a
